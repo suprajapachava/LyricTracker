@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/suprajapachava/LyricTracker.git/static/css/main.27c7b09d.css",
+    "main.js": "/suprajapachava/LyricTracker.git/static/js/main.e82960a8.js",
+    "static/js/787.60ee7ecb.chunk.js": "/suprajapachava/LyricTracker.git/static/js/787.60ee7ecb.chunk.js",
+    "static/media/head.jpg": "/suprajapachava/LyricTracker.git/static/media/head.fcec73753f0bbff3d0bc.jpg",
+    "static/media/theNights.mp3": "/suprajapachava/LyricTracker.git/static/media/theNights.a55531e33b8e3726fb26.mp3",
+    "static/media/avatar.jpg": "/suprajapachava/LyricTracker.git/static/media/avatar.cfe9f79c746ba3002568.jpg",
+    "static/media/spinner.gif": "/suprajapachava/LyricTracker.git/static/media/spinner.11f0664629bd4a9ffefa.gif",
+    "static/media/Levitating.jpg": "/suprajapachava/LyricTracker.git/static/media/Levitating.8413b4642f4ac3ebb495.jpg",
+    "static/media/nightChanges.jpg": "/suprajapachava/LyricTracker.git/static/media/nightChanges.dc2bea43a880f0484509.jpg",
+    "index.html": "/suprajapachava/LyricTracker.git/index.html",
+    "main.27c7b09d.css.map": "/suprajapachava/LyricTracker.git/static/css/main.27c7b09d.css.map",
+    "main.e82960a8.js.map": "/suprajapachava/LyricTracker.git/static/js/main.e82960a8.js.map",
+    "787.60ee7ecb.chunk.js.map": "/suprajapachava/LyricTracker.git/static/js/787.60ee7ecb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27c7b09d.css",
+    "static/js/main.e82960a8.js"
+  ]
+}
